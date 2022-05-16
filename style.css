@@ -1,0 +1,31 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+.nav-items {
+    list-style: none;
+    display:inline-flex
+    }
+    
+.nav-items>li{
+        padding: 10px;
+    }
+    
+.nav-img{
+        width: 60px;
+    }
+    
+.head{
+   background-color: aquamarine;
+   border-block-end-style:  solid;
+   border-block-end-width: thick;
+   border-block-end-color:teal;
+  }
+  .foot{
+   background-color: aquamarine;   
+   border-block-start-style:  solid;
+   border-block-start-width: thick;
+   border-block-start-color:teal;
+  }
